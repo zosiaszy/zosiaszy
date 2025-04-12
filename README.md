@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color:#c90076">Zosia</span> 👋</h1>
+<h1 align="center">Hi there, I'm Zosia</span> 👋</h1>
 
 ## 📖 About me
 
