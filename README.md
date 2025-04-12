@@ -27,5 +27,8 @@ Feel free to check out my repositories and reach out!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
+![snake gif](https://github.com/twoj_nick/twoj_nick/blob/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 
 
