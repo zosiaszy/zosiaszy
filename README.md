@@ -2,13 +2,19 @@
 
 ## 📖 About me
 
-- 💻 I'm a junior full-stack web developer  
-- 🚀 My Development Journey is just beginning. I’m excited to explore new technologies and grow as a developer. I love learning and taking on new challenges!
+💻 I'm a Junior Front-End Developer with a passion for crafting interactive and accessible web experiences.<br>
+🎓🧪 Former chemist turned developer – because I realized I enjoy solving problems with code more than pipettes and pH meters 😉
+🚀 Currently expanding my skillset and aspiring to become a Full-Stack Developer.
+
+- Studying Computer Science at University of Lodz
+- Currently working on my [gym-project](https://github.com/zosiaszy/gym-project)
 
 ---
 
-### I’m open to collaboration and love working on exciting projects.  
-Feel free to check out my repositories and reach out!
+### 🤝 Let’s connect!
+
+I’m open to collaboration and love working on exciting projects.  
+Feel free to reach out!
 
 ---
 
@@ -27,8 +33,8 @@ Feel free to check out my repositories and reach out!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
-![snake gif](https://github.com/twoj_nick/twoj_nick/blob/output/github-contribution-grid-snake.svg)
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+
 
 
 
