@@ -27,5 +27,5 @@ Feel free to check out my repositories and reach out!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
-![Zofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwojaNazwaUzytkownika&show_icons=true&theme=tokyonight)
+
 
