@@ -3,7 +3,7 @@
 ## 📖 About me
 
 💻 I'm a Junior Front-End Developer with a passion for crafting interactive and accessible web experiences.<br>
-🎓🧪 Former chemist turned developer – because I realized I enjoy solving problems with code more than pipettes and pH meters 😉
+🎓🧪 Former chemist turned developer – because I realized I enjoy the creative process of building websites and bringing ideas to life with code more than pipettes and pH meters 😉<br>
 🚀 Currently expanding my skillset and aspiring to become a Full-Stack Developer.
 
 - Studying Computer Science at University of Lodz
